@@ -6,4 +6,4 @@ function novaFuncao(){
 function abre(){
     return TRUE;
 
-}
+}  
